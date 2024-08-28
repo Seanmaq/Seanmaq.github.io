@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="36px" height="18px" viewBox="0 0 36 18" zoomAndPan="disable" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+  <defs/>
+  <style type="text/css"> line { stroke: #fff; stroke-width: 1; } </style>
+  <line x1="0" y1="0" x2="18" y2="18" style="stroke: rgb(34, 48, 48);"/>
+  <line x1="36" y1="0" x2="18" y2="18" style="stroke: rgb(34, 48, 48);"/>
+</svg>
